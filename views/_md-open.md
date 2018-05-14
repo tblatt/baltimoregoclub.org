@@ -1,24 +1,26 @@
-The GWRM Baltimore Go Club and the Baltimore Country Department of Recreation and Parks Proudly Present the Forty-Third Maryland Open
+The GWRM Baltimore Go Club and the Baltimore Country
+Department of Recreation and Parks Proudly Present the
+Forty-Fifth Maryland Open
 
-Memorial Day Weekend, May 28 & 29, 2016
+Memorial Day Weekend, May 26 & 27, 2018
 
 Prizes in all sections (Dan and Kyu)
 Open Section: Even games for Cash Prize!
 
-Entrance Fee: $30
+Entrance Fee: $35
 
-*This is an AGA rated event. AGA membership required and available at door for $30. One day fee: $10.*
- 
+*This is an AGA rated event. AGA membership required and available at door. One day memberships available.*
+
 FIVE ROUNDS: Three Saturday, two Sunday.
 Registration from 9 until 10:30 am. First round at 11 am.
 Come for one day or both! First round Sunday 9:30 am.
- 
+
 SAME GREAT LOCATION:
 
     Catonsville Senior Center
     501 N. Rolling Rd.
     Catonsville, MD 21228
- 
+
 Directions:
 
 * From Baltimore Beltway (695)
