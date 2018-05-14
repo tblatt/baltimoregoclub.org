@@ -12,16 +12,19 @@ html
     != css()
 
   body
-    .row
-      .logo
-        img(src='img/gwrm.gif')
-      .title
-        h1 GWRM Baltimore Go Club
+    header.container-fluid
+      .row.align-items-center
+        .col-3.logo
+          img(src='img/gwrm.gif')
+        .col
+          h1.title GWRM Baltimore Go Club
 
-    .sidebar
-      div thing
+    .container-fluid
+      .row.flex-xl-nowrap
+        .sidebar.col-12.col-md-3.col-xl-2
+          include _sidebar
 
-    .content
-      block content
+        main.col-12.col-md-9.col-xl-8.py-md-3.pl-md-5
+          block content
 
     != js()
