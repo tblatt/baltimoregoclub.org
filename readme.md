@@ -2,6 +2,10 @@
 
 Baltimore Go Club Site
 
+### Editing Stuff
+
+You probably want to change things in `views`. Go in there, edit, send a pull request. Jess will deploy / make live.
+
 ### Setup
 
 - make sure [node.js](http://nodejs.org) and [roots](http://roots.netlify.com/) are installed
