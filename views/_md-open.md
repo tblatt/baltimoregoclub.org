@@ -1,11 +1,14 @@
 The GWRM Baltimore Go Club and the Baltimore Country
 Department of Recreation and Parks Proudly Present the
-Forty-Fifth Maryland Open
+Forty-Sixth Maryland Open
 
-Memorial Day Weekend, May 26 & 27, 2018
+Memorial Day Weekend, May 25 & 26, 2019
+
+_This is a very popular weekend. Make reservations now!_
 
 Prizes in all sections (Dan and Kyu)
-Open Section: Even games for Cash Prize!
+
+Open Section: Even games for championship!
 
 Entrance Fee: $35
 
@@ -13,7 +16,7 @@ Entrance Fee: $35
 
 FIVE ROUNDS: Three Saturday, two Sunday.
 Registration from 9 until 10:30 am. First round at 11 am.
-Come for one day or both! First round Sunday 9:30 am.
+Come for one day or both! First round Sunday **9:30 am.**
 
 SAME GREAT LOCATION:
 
@@ -32,13 +35,6 @@ Directions:
 * Go North 2 miles to Frederick Rd.
 * Turn left, go 1/4 mi, then right onto Rolling Rd.
 * At 2nd light (Old Frederick Rd.), turn right into Senior Center
-
-Nearby Motels
-
-* Comfort Inn	410-744-5000	S.E. Corner Rt. 40 & 695
-* Days Inn	410-747-8900	S.W. Corner Rt. 40 & Ingleside
-* Brown's Motel	410-465-4000	2 mi West of Rolling Rd. on Rt. 40
-* Call to confirm!
 
 Questions?
 Call Keith 410-788-3520
