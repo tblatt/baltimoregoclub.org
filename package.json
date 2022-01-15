@@ -10,7 +10,7 @@
     "js-pipeline": "0.2.x",
     "jstransformer-marked": "1.x",
     "lost": "^8.2.1",
-    "marked": "0.3.x",
+    "marked": "4.0.x",
     "node-sass": "^4.9.0"
   }
 }
