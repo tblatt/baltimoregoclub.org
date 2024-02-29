@@ -1,6 +1,11 @@
 {
   "name": "baltimoregoclub.org",
   "description": "Baltimore Go Club Site",
+  "scripts": {
+    "build": "./node_modules/roots/bin/roots compile -e production",
+    "watch": "./node_modules/roots/bin/roots watch",
+    "deploy": "rsync -uav public/* jess@loki.ws:/var/www/baltimoregoclub.org/htdocs/"
+  },
   "dependencies": {
     "autoprefixer": "^8.5.0",
     "bootstrap": "^4.1.1",
@@ -11,6 +16,7 @@
     "jstransformer-marked": "1.x",
     "lost": "^8.2.1",
     "marked": "0.3.x",
-    "node-sass": "^4.9.0"
+    "node-sass": "^4.9.0",
+    "roots": "^5.2.0"
   }
 }
