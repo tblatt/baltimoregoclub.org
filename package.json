@@ -7,16 +7,16 @@
     "deploy": "rsync -uav public/* jess@loki.ws:/var/www/baltimoregoclub.org/htdocs/"
   },
   "dependencies": {
-    "autoprefixer": "^8.5.0",
-    "bootstrap": "^4.1.1",
+    "autoprefixer": "^8.6.5",
+    "bootstrap": "^4.6.2",
     "coffee-script": "1.x",
     "css-pipeline": "0.3.x",
     "jade": "1.x",
     "js-pipeline": "0.2.x",
-    "jstransformer-marked": "1.x",
-    "lost": "^8.2.1",
+    "jstransformer-marked": "^1.4.0",
+    "lost": "^8.3.1",
     "marked": "0.3.x",
-    "node-sass": "^4.9.0",
+    "node-sass": "^4.14.1",
     "roots": "^5.2.0"
   }
 }
