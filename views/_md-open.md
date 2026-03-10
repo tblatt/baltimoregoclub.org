@@ -10,8 +10,8 @@ Prizes in all sections (Dan and Kyu)
 
 Open Section: Even games for championship!
 
-Entrance Fee: $40
-Under 18: $30
+Entrance Fee: $50
+Under 18: $40
 
 *This is an AGA rated event. AGA membership required and available at door. One day memberships available.*
 
