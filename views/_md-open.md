@@ -1,8 +1,8 @@
 The GWRM Baltimore Go Club and the Baltimore Country
 Department of Recreation and Parks Proudly Present the
-Forty-Ninth Maryland Open
+Fiftieth Maryland Open
 
-Memorial Day Weekend, May 24 & 25, 2025
+Memorial Day Weekend, May 23 & 24, 2026
 
 _This is a very popular weekend. Make reservations now!_
 
